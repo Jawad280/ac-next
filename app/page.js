@@ -13,10 +13,6 @@ export default function Home() {
   const [clicked, setClicked] = useState(false);
 
   return (
-    // <div className="home">
-    //   <h1>Welcome to the Brotherhood</h1>
-    //   <button>Join the Brotherhood</button>
-    // </div>
     <div className="container" style={{ padding: '50px 0 100px 0' }}>
       {!session ? (
         <div className='auth-container'>
