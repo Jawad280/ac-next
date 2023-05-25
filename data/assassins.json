@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf2"
+  },
+  "name": "Altaïr Ibn-La'Ahad",
+  "path": "/altair.png",
+  "content": "Altaïr Ibn-La'Ahad (Arabic: الطائر ابن لا أحد‎ 1165 – 1257) was a member of the Levantine Brotherhood of Assassins who served as their Mentor from 1191 until his death in 1257. During his tenure as Mentor, through the knowledge of an Apple of Eden, Altaïr made several discoveries and inventions that greatly helped the Order's progression. His leadership saw to the spread of the Assassins' influence throughout Europe and Asia.",
+  "title": "altair"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf3"
+  },
+  "name": "Ezio Auditore da Firenze",
+  "path": "/ezio.webp",
+  "content": "Ezio Auditore da Firenze (1459 – 1524) was a Florentine nobleman during the Renaissance, and, unbeknownst to most historians and philosophers, a Master Assassin and the Mentor of the Italian Brotherhood of Assassins, a title which he held from 1503 to 1513.",
+  "title": "ezio"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf4"
+  },
+  "name": "Ratonhnhaké:ton",
+  "path": "/connor.webp",
+  "content": "Ratonhnhaké:ton (/radũnhaɡɛ̌ːdõ/, born 1756), also known by the adopted name of Connor, was a Kanien'kehá:ka-born Master Assassin of the Colonial Brotherhood during the period of the American Revolutionary War. He is an ancestor of Desmond Miles through the paternal line.",
+  "title": "connor"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf5"
+  },
+  "name": "Edward Kenway",
+  "path": "/edward.webp",
+  "content": "Edward James Kenway (1693 – 1735) was a Welsh-born British privateer-turned-pirate and a member of the West Indies and British Brotherhoods of Assassins.",
+  "title": "edward"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf6"
+  },
+  "name": "Shay Cormac",
+  "path": "/shay.webp",
+  "content": "Shay Patrick Cormac (c. 1731 – unknown) was a member of the Templar Order, operating around the Atlantic Ocean during the Seven Years' War. Formerly a member of the Colonial branch of the Assassin Brotherhood, Shay devoted his Templar career to hunting down his prior associates. Aboard his ship, the Morrigan, Shay's travels brought him to New York and the Appalachian Mountains, among other locations.",
+  "title": "shay"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf7"
+  },
+  "name": "Arno Dorian",
+  "path": "/arno.png",
+  "content": "Arno Victor Dorian (born 1768) was a member of the French Brotherhood of Assassins and a Master Assassin during the French Revolution. He is also an ancestor of the modern Assassin Callum Lynch through his paternal line.",
+  "title": "arno"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf8"
+  },
+  "name": "Evie Frye",
+  "path": "/evie.webp",
+  "content": "Dame Evie Frye (born 1847) was a Master Assassin of the British Brotherhood, active in London during the Victorian era, and the elder twin sister of Jacob Frye. She was also a member of the Order of the Sacred Garter, and the grand-aunt of Lydia Frye.",
+  "title": "evie"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1faf9"
+  },
+  "name": "Jacob Frye",
+  "path": "/jacob.webp",
+  "content": "Sir Jacob Frye (born 1847) was a Master Assassin of the British Brotherhood, active in London during the Victorian era, and the younger twin brother of Evie Frye. He later became a member of Queen Victoria's Order of the Sacred Garter, and the grandfather of Lydia Frye.",
+  "title": "jacob"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1fafa"
+  },
+  "name": "Bayek",
+  "path": "/bayek.png",
+  "content": "Bayek of Siwa (born c. 85 BCE), also known by the alias Amun, was one of the last Medjay of Egypt and the founder of the Hidden Ones alongside his wife, Aya.",
+  "title": "bayek"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1fafb"
+  },
+  "name": "Kassandra",
+  "path": "/kassandra.webp",
+  "content": "Kassandra (Greek: Κασσανδρα; 458 BCE – 2018 CE), renowned as the Eagle Bearer, nicknamed the West Wind,[3] and bestowed the title of Keeper,[4] was a Spartan mercenary who operated in Greece during the Peloponnesian War.",
+  "title": "kassandra"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1fafc"
+  },
+  "name": "Eivor Varinsdottir",
+  "path": "/eivor.webp",
+  "content": "Eivor Varinsdottir (Runic: ᛅᛁᚢᛅᚱ; born 847), renowned as the Wolf-Kissed, was a Viking shieldmaiden and jarlskona from Norway who raided in what would become England during the late 9th century. She was the reincarnation of the Isu Odin, the chief of the Æsir who was revered as a god in Germanic and Norse mythology.",
+  "title": "eivor"
+},{
+  "_id": {
+    "$oid": "646e136ad2555a9166b1fafd"
+  },
+  "name": "Basim Ibn Ishaq",
+  "path": "/basim.webp",
+  "content": "Basim Ibn Ishaq (born c. 835) is a human reincarnation of the Isu Loki who used Yggdrasil to permit his consciousness to survive the Great Catastrophe millennia ago. Born in the Abbasid Caliphate during the 9th century, Basim became a Hidden One working primarily in foreign nations on their behalf, even becoming the leader of the bureau of Constantinople.",
+  "title": "basim"
+}]
